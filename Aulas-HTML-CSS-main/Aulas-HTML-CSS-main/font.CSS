@@ -1,0 +1,26 @@
+ /* body - SELETOR*/
+ 
+/*body{
+     background-color: Propriedade;
+     :red; < - Valor
+     /*}
+ 
+     /*p{
+     color:bronw; < - Declração
+      } */
+
+      body {
+     background-color:red
+      color: brown
+    }
+
+    body {
+        background-color: white;
+        color: red;
+        font-size: 15px;
+  
+    }
+
+    p{
+        color: black;
+    }
